@@ -1,3 +1,10 @@
+ Creator: Meir Shuvax- Student in Hadassah Academic College Jerusalem. This project was made as final project in semester a' year b'. 
+
+To build this game-project you must have SFML library downloaded on your computer and located in the C directory because that is where the cmake directs the compiler to find it. When you have it you can build it (cmake project building) and run/debug as you wish. 
+
+SFML can be downloded from: https://www.sfml-dev.org/download.php
+ 
+ 
  בתרגיל זה נבנה משחק של סופר-פקמן, כולל משחק שלם שעובד, רץ, כולל גרפיקה, והכל 
 כדי שירגיש משחק מוחשי ואמיתי, ושיהיה כיף לשחק בו.
  
@@ -83,8 +90,3 @@ Board  - תפקידו לנהל את לוח המשחק, ולבצע את הפעו�
 ע"י שימוש במחלקות הכפתורים השונים לסוגיהם.
 מחלקת ה controller- תנהל את המשחק, ותקרא לכל המחלקות השונות שיטפלו כל אחד לפי המקרה שלו.
 מחלקת הזמן - תהיה אחראית על זמן המשחק.
-
- 
-
- השקנו פה ושם לפי מידת הצורך בגרפיקה יפה - לדוג - כשהשחקן לקח מתנה שהשדים צריכים לקפוא - באמת זה נראה כאילו הם קפואים, וכן כשזה הולך להיגמר - הם מהבהבים.
-וכל מיני דברים קטנים נוספים, שעושים את המשחק נעים לעין וכיף.
